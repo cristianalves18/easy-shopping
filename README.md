@@ -12,6 +12,7 @@
    <br>
    <img src="https://github.com/cristianalves18/easy-shopping/blob/master/assets/demostra%C3%A7%C3%A3o%20do%20projeto.png"/>
    <br>
-    <h3> Contato:</h3> (11) 95840-7956
-   <br>
-   - <h3>Email:</h3> cristianssilva.20@gmail.com
+- <b>CONTATO:</b>
+      (11) 95840-7056
+- <b>EMAIL:</b> cristianssilva.20@gmail.com
+                                           
